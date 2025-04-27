@@ -1,4 +1,5 @@
-Install
-npm i
-Run 
+Install:
+npm install
+
+Run:
 npm run dev
